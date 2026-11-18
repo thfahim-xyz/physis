@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+>
+> **[Physis](https://github.com/thfahim-xyz/physis)** has been succeeded by **[Phypedia](https://github.com/thfahim-xyz/phypedia)**.
+
 # Physis
 
 A free and open physics learning website focused on clarity, intuition, and mathematical understanding.

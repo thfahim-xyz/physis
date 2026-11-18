@@ -1,7 +1,7 @@
 title: "Physis"
 description: "A personal collection of notes for exploring physics through concepts, intuition, and mathematics."
 url: "https://thfahim-xyz.github.io"
-baseurl: "/physion"
+baseurl: "/physis"
 
 defaults:
   - scope:

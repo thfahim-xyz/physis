@@ -6,13 +6,10 @@ Physis is a long-term project aiming to organize physics into a structured, inte
 
 ## Topics Covered
 
-* Foundations of Physics
-* Mathematical Methods for Physics
+* Mathematical Methods
 * Classical Mechanics
-* Continuum Mechanics
 * Thermodynamics and Statistical Mechanics
 * Electromagnetism
-* Optics
 * Relativity
 * Quantum Mechanics
 
